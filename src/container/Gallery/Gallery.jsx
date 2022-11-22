@@ -1,6 +1,5 @@
 import React from "react";
-import { BsInstagram } from "react-icons/bs";
-import { BsArrowLeftShort } from "react-icons/bs";
+import { BsInstagram, BsArrowLeftShort } from "react-icons/bs";
 import { SubHeading } from "../../components";
 import { images } from "../../constants";
 import "./Gallery.css";
